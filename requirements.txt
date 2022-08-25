@@ -1,0 +1,10 @@
+Open your cmd and type the following commends in cmd.
+
+
+Type:
+
+"pip install datetime"
+
+"pip install pyautogui"
+
+Don't  want to type quotes ""
